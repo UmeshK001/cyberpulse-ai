@@ -13,13 +13,21 @@
 
 ## 📸 Dashboard Preview
 
-| Forecast Tab | Heatmap Tab |
-|---|---|
-| LSTM + Prophet 6-month forecasts | Monthly attack trend heatmap |
+> Run `python main.py --dashboard` and open **http://localhost:8501** to see the live dashboard.
 
-| Risk Scores Tab | Industry Report Tab |
-|---|---|
-| Composite CVE risk scoring | Sector-specific threat reports |
+The dashboard has **4 interactive tabs**:
+
+**📈 Forecast Tab**
+![Forecast Tab](docs/screenshots/forecast.png)
+
+**🗺️ Heatmap Tab**
+![Heatmap Tab](docs/screenshots/heatmap.png)
+
+**⚠️ Risk Scores Tab**
+![Risk Scores Tab](docs/screenshots/risk_scores.png)
+
+**🏭 Industry Report Tab**
+![Industry Report Tab](docs/screenshots/industry_report.png)
 
 ---
 
