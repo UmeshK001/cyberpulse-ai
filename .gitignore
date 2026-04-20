@@ -1,6 +1,8 @@
-# ── Data (too large for git) ──────────────────────────────────
+# ── Raw data (too large for git – 909 MB) ────────────────────
 data/raw/
-data/processed/
+
+# ── Processed data (tracked) ─────────────────────────────────
+# data/processed/  ← intentionally included
 
 # ── Trained models (too large for git) ───────────────────────
 saved_models/
